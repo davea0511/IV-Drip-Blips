@@ -23,7 +23,7 @@ Worth a read: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3228265/
           there are *no* other units of measure allowed for input.
     - Since ml/hr is the most commonly used, that is the only unit of measure that is allowed.
 2. The nurse is required to select the drips/ml (also called gtt/ml), from a list.
-    - Again in order to reduce the chance for mistakes, the most clear and obvious units of measure
+    - Again in order to reduce the chance for mistakes, the most intuitive and well understood units of measure
               are drips/ml, not gtt/ml, so drips/ml will be used.  Medical-speak egos be damned.
     - The units of gtt/ml are also indicated in parenthesis, as this is more likely to be
                      indicated on the infusion set, prompting the user to quickly identify the proper rate.
