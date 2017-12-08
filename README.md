@@ -2,7 +2,7 @@
 Mobile App that does simple conversion plus audio and visual output demonstrating an intravenous drip-rate to save lives
 
 # SPECIAL NOTE ABOUT BEING SAFETY-MINDED WHEN USING THIS CODE
-The intent of this app is to reduce hospital mistakes (see "PURPOSE" below), and thereby save lives, and provide a way to make sure the person setting up the IV is avoiding errors.  It is offered under the MIT license to encourage open use of this code *HOWEVER* there are specific safety reasons for designing it in a way that some people might consider inefficient (for example, not having a default drips/ml rate) so PLEASE DO NOT change the core methodology (see PROGRAM FLOW below) that might open the door for possible error.  Please include this in your own app, but please be cognizant about how each change you make could allow greater error, and thereby reduce error opportunities as much as humanly possible.
+The intent of this app is to reduce hospital mistakes (see "PURPOSE" below), and thereby save lives.  It is offered under the MIT license in order to encourage wide use of this code *HOWEVER* there are specific safety reasons for designing it the PROGRAM FLOW (see below) in a way that might seem inefficient (for example, by not having a default drips/ml rate). So, PLEASE DO NOT change the core methodology (see PROGRAM FLOW below) that might open the door for more hospital errors.  Please be cognizant about how any change you make might result in more hospital errors, thereby reducing the original purpose of this code.
 
 # PURPOSE
 Worth a read: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3228265/
