@@ -32,7 +32,7 @@ Worth a read: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3228265/
               be a default setting. The user must select a setting in order to proceed.
     - Since indicating a
               default (or preferred value) might introduce error, the app does not indicate a default,
-              or preferred, or most commonly used value.
+              or preferred, nor a most-commonly-used value.
 3) The nurse must validate that they selected the right infusion set (step 2), as a safety measure, with a message  
     **"Are you sure? Mismatcing the infusion set can result in the wrong rate and can have serious, even fatal, consequences"**
 4) The entered ml/hr rate is converted to drips per second, which rate will be shown on the screen.
