@@ -34,7 +34,7 @@ Worth a read: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3228265/
               default (or preferred value) might introduce error, the app does not indicate a default,
               or preferred, or most commonly used value.
 3) The nurse must validate that they selected the right infusion set (step 2), as a safety measure, with a message  
-    **"Selecting the wrong infusion set can result in the wrong rate and can have serious, even fatal, consequences"**
+    **"Are you sure? Mismatcing the infusion set can result in the wrong rate and can have serious, even fatal, consequences"**
 4) The entered ml/hr rate is converted to drips per second, which rate will be shown on the screen.
 5) A large portion of the screen will visually demonstrate the drip rate with a continuous visual pulse signal until stopped.
 6) The user will have to option to also hear an audible signal for each drip, which is normally silenced.
