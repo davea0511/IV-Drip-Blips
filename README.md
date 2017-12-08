@@ -10,28 +10,33 @@ Worth a read: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3228265/
      that 2 out of every 3 someone gets an IV, something was wrong.
 * "Wrong rate was the most frequent and accounted for 95 of 101 serious errors."
 * "Serious error" were defined as:
-   . Incident is likely to lead to permanent reduction in bodily functioning leading
+   * Incident is likely to lead to permanent reduction in bodily functioning leading
         to, for example, increased length of stay; surgical intervention
-   . Incident is likely to lead to a major permanent loss of function
-   . Incident is likely to lead to death
+   * Incident is likely to lead to a major permanent loss of function
+   * Incident is likely to lead to death
+
 In short, the purpose of this app is to save lives.
 
 # METHODOLOGY
 (1) The nurse enters the desired rate in ml/hr.
+
     Note: In order to reduce the chance for mistakes (which is paramount, and the purpose of this app)
-          there are *no* other units of measure allowed for input.  ml/hr is the most commonly used so this is what is allowed.
+          there are *no* other units of measure allowed for input.
+          Since ml/hr is the most commonly used, that is the only unit of measure that is allowed.
+
 (2) The nurse is required to select the drips/ml (also called gtt/ml), from a list.
+
     Notes: a. Again in order to reduce the chance for mistakes, the most clear and obvious units of measure
               are drips/ml, not gtt/ml, so drips/ml will be used.  Medical-speak egos be damned.
                   - the units of gtt/ml are also indicated in parenthesis, as this is more likely to be
                      indicated on the infusion set, prompting the user to quickly identify the proper rate.
                      eg. "Please select the infusion set drips/ml (gtt/ml):"
            b. The list shoule include: 10, 15, 20, and 60.  For safety purposes there will not
-              be a default setting, and the user must select one in order to proceed.  Initially the most
-              common rate was indicated, but as that might introduce error for someone who will just select that
-              there is no such indication.
+              be a default setting, and the user must select one in order to proceed.  Since indicating a
+              default (or preferred value) might introduce error, the app does not indicate a default,
+              or preferred, or most commonly used value.
 (3) The nurse must validate that they selected the right infusion set (step 2), as a safety measure, with a message
-     "Selecting the wrong infusion set can result in the wrong rate and can have serious, even fatal, consequences"
+     "Selecting the wrong infusion set can result in the wrong rate and can have serious, even fatal, consequences"     
 (4) The entered ml/hr rate is converted to drips per second, which rate will be shown on the screen.
 (5) A large portion of the screen will visually demonstrate the drip rate with a continuous visual pulse signal until stopped.
 (6) The user will have to option to also hear an audible signal for each drip, which is normally silenced.
