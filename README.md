@@ -19,7 +19,7 @@ Worth a read: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3228265/
 
 # PROGRAM FLOW
 1. The nurse enters the desired rate in ml/hr.
-    - In order to reduce the chance for mistakes (which is paramount, and the purpose of this app)
+    - In order to reduce the chance for mistakes (which is paramount, given the purpose of this app)
           there are *no* other units of measure allowed for input.
     - Since ml/hr is the most commonly used, that is the only unit of measure that is allowed.
 2. The nurse is required to select the drips/ml conversion rate (also called gtt/ml), from a list (10,15,20,60).
