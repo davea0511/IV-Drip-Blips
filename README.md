@@ -1,10 +1,10 @@
 # IV-Drip-Blips
 Mobile App that quickly demonstrates a desired intravenous drip-rate, which can be compared to the actual drip-rate in order to reduce error and thereby save lives.
 
-# SPECIAL NOTE ABOUT BEING SAFETY-MINDED WHEN USING THIS CODE
+## SPECIAL NOTE ABOUT BEING SAFETY-MINDED WHEN USING THIS CODE
 The intent of this app is to reduce hospital mistakes (see "PURPOSE" below), and thereby save lives.  It is offered under the MIT license in order to encourage wide use of this code *HOWEVER* there are specific safety reasons for designing it the PROGRAM FLOW (see below) in a way that might seem inefficient (for example, by not having a default drips/ml rate). So, PLEASE DO NOT change the core methodology (see PROGRAM FLOW below) that might open the door for more hospital errors.  Please be cognizant about how any change you make might result in more hospital errors, thereby reducing the original purpose of this code.
 
-# PURPOSE
+## PURPOSE
 Worth a read: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3228265/
 * Intravenous administration error rates are currently at 69.7%. That means
      that 2 out of every 3 someone gets an IV, something was wrong.
@@ -17,7 +17,7 @@ Worth a read: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3228265/
 
 **In short, the purpose of this app is to save lives.**
 
-# PROGRAM FLOW
+## PROGRAM FLOW
 1. The nurse enters the desired rate in ml/hr.
     - In order to reduce the chance for mistakes (which is paramount, given the purpose of this app)
           there are *no* other units of measure allowed for input.
