@@ -6,8 +6,8 @@ The intent of this app is to reduce hospital mistakes (see "PURPOSE" below), and
 
 ## PURPOSE
 Worth a read: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3228265/
-* Intravenous administration error rates are currently at 69.7%. That means
-     that 2 out of every 3 someone gets an IV, something was wrong.
+* Intravenous administration error rates are currently at 69.7%. That means that
+     something goes wrong for every 2 out of 3 times that someone gets an IV.
 * "Wrong rate was the most frequent and accounted for 95 of 101 serious errors."
 * "Serious error" were defined as:
    * Incident is likely to lead to permanent reduction in bodily functioning leading
