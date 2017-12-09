@@ -15,7 +15,7 @@ Worth a read: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3228265/
    * Incident is likely to lead to a major permanent loss of function
    * Incident is likely to lead to death
 
-**In short, the purpose of this app is to save lives.**
+**In summary, the purpose of this app is to save lives.**
 
 ## PROGRAM FLOW
 1. The nurse enters the desired rate in ml/hr.
